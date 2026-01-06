@@ -1,0 +1,16 @@
+# Compose Snippets
+
+A personal collection of reusable Jetpack Compose components.
+
+## Purpose
+This repository contains small, focused Jetpack Compose snippets
+that can be copied directly into Android projects.
+
+## Structure
+- `OutlinedTextField/` – it is reusable for Login screen,
+there is password and login field.
+
+## Usage
+Copy the required Kotlin file into your project
+and adjust imports if necessary.
+
